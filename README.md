@@ -1,3 +1,5 @@
+# This repo has been replaced by https://github.com/SmickDibbly/zigil
+
 # Zigil
 A thin abstraction layer on top of Linux or Windows, made specifically to separate out all the platform-specific code from the Electric Pentacle Machine. Nonetheless, Zigil can theoretically be used for other purposes too.
 
